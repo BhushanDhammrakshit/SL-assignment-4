@@ -1,3 +1,4 @@
+//mark-sweep method
 #include<stdio.h>
 #include<stdlib.h>
 
